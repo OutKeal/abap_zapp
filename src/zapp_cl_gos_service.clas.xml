@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZAPP_CL_GOS_SERVICE</CLSNAME>
+    <LANGU>1</LANGU>
+    <DESCRIPT>审批流提交</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAPP_CL_GOS_SERVICE</CLSNAME>
+     <CMPNAME>GT_MESSAGE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>消息</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAPP_CL_GOS_SERVICE</CLSNAME>
+     <CMPNAME>OT_RETURN</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>返回参数</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAPP_CL_GOS_SERVICE</CLSNAME>
+     <CMPNAME>PO_APP_CREATE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>提交PO审批</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZAPP_CL_GOS_SERVICE</CLSNAME>
+     <CMPNAME>PR_APP_CREATE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>提交PR审批</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

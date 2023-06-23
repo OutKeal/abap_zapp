@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PARA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TPARA>
+    <PARAMID>ZAPP_JUMP</PARAMID>
+   </TPARA>
+   <TPARAT>
+    <PARAMID>ZAPP_JUMP</PARAMID>
+    <SPRACHE>1</SPRACHE>
+   </TPARAT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>ZAPPNO</OBJECT>
+    <DOMLEN>CHAR10</DOMLEN>
+    <PERCENTAGE>5.0</PERCENTAGE>
+    <CHANGED_AT>20230412084444.254988</CHANGED_AT>
+    <CHANGED_BY>AT-WXY</CHANGED_BY>
+    <ENAME>H-WANGF</ENAME>
+    <EDATE>2020-12-29</EDATE>
+    <ETIME>12:16:07</ETIME>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>1</LANGU>
+    <OBJECT>ZAPPNO</OBJECT>
+    <TXT>审批流编号</TXT>
+    <TXTSHORT>审批流编号</TXTSHORT>
+    <ENAME>H-WANGF</ENAME>
+    <EDATE>2020-12-29</EDATE>
+    <ETIME>12:16:07</ETIME>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
